@@ -1,4 +1,4 @@
-main  h1{
+/*main  h1{
     color: red;
 }
 h2{
@@ -24,4 +24,17 @@ p{
 }
 .texto-vermelho .comentario{
     color: blue;
+}*/
+html{
+    color: red;
+    background-color: black;
+    background-image: url("./cachorro2.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+main{
+    background-color: #fff;
+}
+.titulo-aula{
+    background-color: chartreuse;
 }
