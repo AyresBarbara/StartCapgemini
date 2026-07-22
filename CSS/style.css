@@ -25,7 +25,8 @@ p{
 .texto-vermelho .comentario{
     color: blue;
 }*/
-html{
+
+/*html{
     color: red;
     background-color: black;
     background-image: url("./cachorro2.png");
@@ -37,4 +38,48 @@ main{
 }
 .titulo-aula{
     background-color: chartreuse;
+}*/
+
+/*@font-face {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    src: url();
+}
+main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    
+}*/
+
+/*main p{
+    text-indent: 2rem;
+    text-align: right;
+}
+main{
+    font-family: sans-serif;
+    font-size: 1.5rem ;
+}
+h1, h2, h3{
+    text-align: center;
+}*/
+
+/*h2#titulo-primeira-aula{
+    text-decoration: underline;
+    letter-spacing: 1rem;
+}
+p{
+    text-transform: capitalize;
+}*/
+
+/*a:active{
+    cursor: all-scroll;
+    color: red;
+}*/
+
+/*a:visited{
+    color: green;
+}*/
+
+h2:hoover{
+    cursor: pointer;
 }
